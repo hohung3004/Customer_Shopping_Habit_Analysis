@@ -7,6 +7,7 @@ Cách sử dụng: Bộ dữ liệu bán hàng  có thể được sử dụng c
 - Phân tích dữ liệu về hành vi và sở thích của khách hàng.
 - Mô hình dự đoán về xu hướng bán hàng hoặc hành vi của khách hàng.
 - So sánh xu hướng bán hàng cho các loại sản phẩm hoặc khu vực khác nhau.
+
 Hạn chế: Bộ dữ liệu bán hàng  có một vài hạn chế cần được xem xét trước khi sử dụng:
 
 - Tập dữ liệu có thể không bao gồm tất cả các giao dịch mua từ tất cả các khu vực và cửa hàng và một số giao dịch mua có thể bị thiếu trong tập dữ liệu.
